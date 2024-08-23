@@ -1,0 +1,12 @@
+front-end mas que todo
+dir: en powershell mostrar todas los archivos de la ubicacion
+clear: limpiar lo que hay en la interfaz de la consola (poweshell)
+cd: entrar carpeta (iniciales de la carpeta + tab para hallar mas facil)
+cd ..:devolver hacia atras, uno en uno
+mkdir: crear carpeta
+control + c: recuperar control de consola
+npm init: iniciar node.js
+npm en google: librerias o paquetes.
+npm i: recuperar carpeta node_modules sin cargar tantos archivos
+???????astro revisar en casa///
+
