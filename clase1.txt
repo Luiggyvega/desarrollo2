@@ -9,4 +9,16 @@ npm init: iniciar node.js
 npm en google: librerias o paquetes.
 npm i: recuperar carpeta node_modules sin cargar tantos archivos
 ???????astro revisar en casa///
+npm create astro@latest = crear astro
+npm run dev inicializar servidor de desarrollo 
+
+layout: esqueleto de la pagina 
+---
+lo que se encuentra en medio de --- es js
+---
+
+:root{ 
+para crear variables de css = --nombreVariable: 111, 222, 33;
+rgb(var(--nombreVariable)), = llamar valor de la variable
+}
 
